@@ -1,0 +1,74 @@
+/* Hex: #9ba9eb
+Hex: #c3caea
+Hex: #5763a5
+Hex: #f8fafc
+Hex: #454f84
+Hex: #0b69ff
+Hex: #94a3b8
+Hex: #b6c3ca
+Hex: #7683cb
+Hex: #f59e0b
+Hex: #10b981
+Hex: #f97316
+Hex: #14b8a6
+Hex: #b91c1c
+Hex: #ffffff
+Hex: #0ea5e9
+Hex: #64748b */
+.list-item {
+  border: 1px solid #7683cb;
+  width: 32%;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  margin-right: 13px;
+  border-radius: 8px;
+}
+.text {
+  display: flex;
+  align-items: center;
+}
+.user-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #14b8a6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+.details {
+  margin-left: 10px;
+}
+.website {
+  margin-top: 0;
+  margin-bottom: 5px;
+  color: #fff;
+}
+.username {
+  margin-top: 0;
+  margin-bottom: 5px;
+  color: #fff;
+}
+.password {
+  margin-bottom: 5px;
+  margin-top: 0;
+  color: #fff;
+}
+.delete-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  width: max-content;
+  height: fit-content;
+  cursor: pointer;
+}
+.delete-icon {
+  width: 30px;
+}
+.stars {
+  width: 120px;
+}
